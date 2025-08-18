@@ -1,0 +1,9 @@
+{
+  "name": "@nx-v21/api",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@nx-v21/user": "*",
+    "@nx-v21/company": "*"
+  }
+}
